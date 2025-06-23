@@ -1,1 +1,1 @@
-# Sumarizacao
+# Atividade de sumarização abstrativa
