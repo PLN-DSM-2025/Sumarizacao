@@ -15,3 +15,7 @@ Aqueles que apresentaram o melhor desempenho foram:
 
 O texto utilizado para gerar o exemplo sumarizado foi sobre uma notícia disponível no G1 que se trata de uma reportagem sobre
 uma bactéria modificada que pode ser utilziada para transformar plástico PET em paracetamol.
+
+Integrantes:
+Caio Dias
+Valderi Douglas
