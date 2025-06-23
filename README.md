@@ -17,5 +17,4 @@ O texto utilizado para gerar o exemplo sumarizado foi sobre uma notícia dispon�
 uma bactéria modificada que pode ser utilziada para transformar plástico PET em paracetamol.
 
 Integrantes:
-Caio Dias
-Valderi Douglas
+Caio Vitor, Valderi Douglas
